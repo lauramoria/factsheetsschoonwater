@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 .RDataTmp
+docs_bu
 data/
 data
 rsconnect
